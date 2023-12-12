@@ -1,0 +1,7 @@
+{
+    "groceries": [
+      { "id": 1, "name": "Apple", "qty": 5, "price": 1.5, "description": "Fresh apples", "image": "https://www.shutterstock.com/shutterstock/photos/1728480094/display_1500/stock-photo-red-apple-isolated-on-white-background-with-clipping-path-and-full-depth-of-field-1728480094.jpg" },
+      { "id": 2, "name": "Milk", "qty": 2, "price": 2.0, "description": "1 liter", "image": "https://www.shutterstock.com/shutterstock/photos/568076731/display_1500/stock-photo-a-bottle-of-milk-and-glass-of-milk-on-a-wooden-table-on-a-blue-background-568076731.jpg" }
+    ]
+  }
+  
