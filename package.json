@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/aavishkark/mock-server-grocery/issues"
   },
-  "homepage": "https://github.com/aavishkark/mock-server-grocery#readme"
+  "homepage": "https://github.com/aavishkark/mock-server-grocery#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4"
+  }
 }
